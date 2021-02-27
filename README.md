@@ -1,14 +1,14 @@
-## Hi, I'm Paulo 👋🏾 
----
+# Hi, I'm Paulo 👋🏾 
 
 I'm a full-stack developer full of passion for all aspects of building great software. I've worked on projects of various scales, both solo and as part of a team. I'm keen to collaborate with passionate people working on interesting projects.
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbomfim&count_private=true&show_icons=true)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbomfim&count_private=true&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phbomfim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phbomfim&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Visit my pages 💻:
----
+------
+
+## Visit my pages 💻:
 
 - [My portifolio template](http://phbomfim.dev/)
 - [My developer blog](http://blog.phbomfim.dev/)
@@ -16,8 +16,7 @@ I'm a full-stack developer full of passion for all aspects of building great sof
 - [Portuguese resume](http://curriculo.phbomfim.dev/)
 
 
-#### Or find me around the web 🌎:
-----
+## Or find me around the web 🌎:
 
 - [Linkedin profile]()
 - [StackOverFlow profile]()
