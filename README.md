@@ -1,23 +1,25 @@
-# Hi, I'm Paulo 👋🏾 
+## Hi, I'm Paulo 👋🏾 
+
+***Welcome to my profile !!***
 
 I'm a full-stack developer full of passion for all aspects of building great software. I've worked on projects of various scales, both solo and as part of a team. I'm keen to collaborate with passionate people working on interesting projects.
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbomfim&count_private=true&show_icons=true&theme=gruvbox)
+I believe that education is the basis for human and living development focused on this! ✊🏾 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phbomfim&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+**If you want know more by me, visit my pages 💻:**
 
-------
+- [My personal page](http://phbomfim.dev/).
+- [My developer blog](http://blog.phbomfim.dev/).
+- [English](http://resume.phbomfim.dev) or [Portuguese](http://curriculo.phbomfim.dev/) resume versions.
 
-## Visit my pages 💻:
-
-- [My portifolio template](http://phbomfim.dev/)
-- [My developer blog](http://blog.phbomfim.dev/)
-- [English resume](http://resume.phbomfim.dev)
-- [Portuguese resume](http://curriculo.phbomfim.dev/)
-
-
-## Or find me around the web 🌎:
+**Or find me around the web 🌎:**
 
 - [Linkedin profile]()
 - [StackOverFlow profile]()
 - [FreeCode Camp profile]()
+
+<br>
+
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbomfim&count_private=true&show_icons=true&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phbomfim&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
