@@ -12,9 +12,9 @@ I believe that education is the basis for human and living development focused o
 
 **Or find me around the web 🌎:**
 
-- [Linkedin profile]()
-- [StackOverFlow profile]()
-- [FreeCode Camp profile]()
+- [Linkedin profile](https://www.linkedin.com/in/phbomfim/)
+- [StackOverFlow profile](https://pt.stackoverflow.com/users/86147/paulo-bomfim?tab=profile)
+- [FreeCode Camp profile](https://www.freecodecamp.org/phbomfim)
 
 <br>
 
