@@ -18,6 +18,8 @@ Education is the basis for human and living development, and I'm always focused 
 
 <br>
 
+<!--
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbomfim&count_private=true&show_icons=true&theme=chartreuse-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phbomfim&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
